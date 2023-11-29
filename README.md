@@ -1,6 +1,6 @@
 # ICU Optimization
 
-This repository contains Jupyter Notebooks related to ICU (Intensive Care Unit) Optimization.
+This repository focuses on optimizing the patient stay in the Intensive Care Unit (ICU). The main objective is to predict the discharge time, both in terms of hours and dates, in order to streamline the ICU workflow and better manage resources during emergencies.
 
 ## Notebooks
 
