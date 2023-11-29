@@ -32,6 +32,3 @@ If you have any improvements or suggestions, please feel free to contribute by o
 
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-Express gratitude and acknowledge any contributions, tools, or libraries used in the project.
