@@ -1,6 +1,7 @@
 # ICU Optimization
 
-![Uploading Picture3.png…]()
+![Picture3 (1)](https://github.com/shivam3110/icu_optimization/assets/56818878/7147a612-4754-4b53-83ef-1013b5e3b350)
+
 
 
 This repository focuses on optimizing the patient stay in the Intensive Care Unit (ICU). The main objective is to predict the discharge time, both in terms of hours and dates, in order to streamline the ICU workflow and better manage resources during emergencies.
